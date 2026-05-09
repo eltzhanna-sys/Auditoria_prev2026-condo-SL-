@@ -1,0 +1,1 @@
+print('O python está funcionando na auditória')
